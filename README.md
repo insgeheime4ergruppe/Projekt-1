@@ -27,3 +27,14 @@ Phase 4:
    - Erstellen Sie ein Wiki, welches alle bisher erstellten Dokumente und Informationen im Projekt beschreibt und als Verweise beinhalten
    - Sichern Sie das Wiki ebenfalls im git-Repository
 
+Phase 5:
+- [ ] Identifizieren Sie notwendige Daten, die als Voraussetzung für die Angebotserstellung dienen
+- [ ] Analysieren Sie die Datenquellen hinsichtlich der Bereitsteller/Orte und möglicher Datenformate in denen diese bereitgestellt werden können
+- [ ] Untersuchen Sie die Datenformate/Datenquellen im Detail:
+   - welche Daten werden dargestellt
+   - wie werden Daten in den Datenquellen dargestellt
+   - wie können diese importiert und sinnvoll weiterverarbeitet werden
+   - welche Metainformationen sind zur Datenquelle vorhanden
+- [ ] Entscheiden Sie, wer die Daten innerhalb der ITSystemHausDD GmbH nutzen und verarbeiten darf
+- [ ] Datenformat für das Angebot ausgewählt
+
