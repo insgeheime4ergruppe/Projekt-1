@@ -3,7 +3,7 @@
 Dokumentation der Arbeitsschritte
 
 Legende: 
-- [x] anstehende Arbeiten
+- [ ] anstehende Arbeiten
 - [x] fertiggestellte Arbeiten
 
 Phase 1:
