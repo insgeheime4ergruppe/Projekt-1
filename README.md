@@ -14,7 +14,7 @@ Phase 1:
    - alle Beziehungen müssen verbunden sein
 
 Phase 2:
-- [ ] Begriffserklärungen: Repository, Remote Repository, Commit, Push, Pull, Clone
+- [x] Begriffserklärungen: Repository, Remote Repository, Commit, Push, Pull, Clone
 - [x] Erstellung eines Repository (Ordner)
 - [x] Lese- und Schreibzugriffe für alle Mitglieder auf GitHub 
 - [ ] Alle Gruppenmitglieder führen einen Clone-Vorgang des Remote Repositorys auf ihren eigenen Rechnern aus und erhalten lokale Kopien vom Remote Repository 
