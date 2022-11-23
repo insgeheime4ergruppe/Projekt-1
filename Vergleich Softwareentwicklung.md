@@ -24,5 +24,6 @@ Vorteile:
 
 Nachteile:
 - Echtzeitanwendungen sind in C# nicht oder nur eingeschränkt möglich
-- 
+- kein Open-Source
+- Frameworkabhängig
 
