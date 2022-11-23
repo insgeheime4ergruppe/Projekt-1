@@ -1,8 +1,6 @@
 # Softwareentwicklung - Vor-/Nachteile
 
-# Vergleich: Phyton Vs C#
-
-Pyhton:
+# Phyton:
 
 Verteile:
 - eawe
@@ -14,7 +12,7 @@ Nachteile:
 - dawd
 - awd
 
-C#:
+# C#:
 
 Vorteile:
 - dfwdw
