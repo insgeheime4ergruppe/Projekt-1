@@ -3,6 +3,7 @@
 # Vergleich: Phyton Vs C#
 
 Pyhton:
+
 Verteile:
 - eawe
 - eawe
@@ -14,6 +15,7 @@ Nachteile:
 - awd
 
 C#:
+
 Vorteile:
 - dfwdw
 - wd
