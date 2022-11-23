@@ -8,7 +8,7 @@ Legende:
 
 Phase 1:
 - [x] Erstellung des Geschäftprozesses 
-- [ ] Zielplattformen für die Softwareentwicklung herausarbeiten und Vor-/Nachteile bzw. Besonderheiten notieren 
+- [x] Zielplattformen für die Softwareentwicklung herausarbeiten und Vor-/Nachteile bzw. Besonderheiten notieren 
 - [x] Erstellung eines Anwendungsfalldiagramms (Tätigkeiten und Beziehungen der beteiligten Objekte und Personen)
    - alle Beziehungen müssen verbunden sein
 
