@@ -4,13 +4,14 @@
 
 Verteile:
 - Open-Source
+- objektorientierte Programmierung  
 - Dynamisches Casting (keine Deklaration von Variablen)
 - Einfach strukturierter Code ohne viele Formatierungen
 
 Nachteile:
-- awd
-- dawd
-- awd
+- relativ langsam
+- keine Deklaration von Variablen
+- 
 
 # C#:
 
@@ -23,6 +24,5 @@ Vorteile:
 
 Nachteile:
 - Echtzeitanwendungen sind in C# nicht oder nur eingeschränkt möglich
-- we
-- ewe
+- 
 
