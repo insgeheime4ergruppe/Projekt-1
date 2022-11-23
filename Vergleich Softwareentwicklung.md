@@ -3,9 +3,9 @@
 # Phyton:
 
 Verteile:
-- eawe
-- eawe
-- weaw
+- Open-Source
+- Dynamisches Casting (keine Deklaration von Variablen)
+- Einfach strukturierter Code ohne viele Formatierungen
 
 Nachteile:
 - awd
@@ -15,13 +15,14 @@ Nachteile:
 # C#:
 
 Vorteile:
-- dfwdw
-- wd
-- wdw
-- d
+- Strukturierte Programmiersprache
+- Große Standard-Bibliothek
+- Automatische Garbage-Collection
+- visuelle Anwendung
+
 
 Nachteile:
-- ewe
+- Echtzeitanwendungen sind in C# nicht oder nur eingeschränkt möglich
 - we
 - ewe
 
