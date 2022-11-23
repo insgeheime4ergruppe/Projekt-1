@@ -3,7 +3,7 @@
 # Vergleich: Phyton Vs C#
 
 Pyhton:
-Verteile
+Verteile:
 - eawe
 - eawe
 - weaw
