@@ -1,6 +1,6 @@
 # Untersuchung der Datenformate bzw. Datenquellen  
 
-1. genutzte Daten:
+1. *genutzte Daten:
   - Grundrisse
   - Gebäudepläne
   - Kundendaten
