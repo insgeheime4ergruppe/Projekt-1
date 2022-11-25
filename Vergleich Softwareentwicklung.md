@@ -1,13 +1,16 @@
-# Zielplattformen für die Softwareentwicklung 
+# Zielplattformen für die Gundrisserstellung 
 
 
 | Zeilpalltform | 
 | --------------| 
 | Mobil         | 
-|               |
-| Stationär     | 
+| Stationär     |
 
-d
+| Method      | Description                          |
+| :---------- | :----------------------------------- |
+| `GET`       | :material-check:     Fetch resource  |
+| `PUT`       | :material-check-all: Update resource |
+| `DELETE`    | :material-close:     Delete resource |
 
 # Programmiersprache - Vor-/Nachteile
 
