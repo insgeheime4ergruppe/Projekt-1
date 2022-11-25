@@ -1,11 +1,11 @@
 # Zielplattformen für die Softwareentwicklung 
 
 
-| Zeilpalltform | Vorteile     | Nachteile              |
-| --------------| ------------------------------------ |
-| Mobil         | :material-check:     Fetch resource  |
-|               | :mat erial-check-all: Update resource |
-| Stationär     | :material-close:     Delete resource |
+| Zeilpalltform | 
+| --------------| 
+| Mobil         | 
+|               |
+| Stationär     | 
 
 
 
