@@ -3,8 +3,8 @@
 
 | Zeilpalltform | Vorteile | Nachteile |
 | --------------| :--------|---------- |
-| Mobil         |          |           |
-| Stationär     |          |           |
+| `Mobil`       |          |           |
+| `Stationär`   |          |           |
 
 | Method      | Description                          |
 | :---------- | :----------------------------------- |
