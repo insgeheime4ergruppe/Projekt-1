@@ -1,15 +1,15 @@
-# Softwareentwicklung - Vor-/Nachteile
+# Zielplattformen für die Softwareentwicklung 
 
 
-| Method      | Description                          |
-| ----------- | ------------------------------------ |
-| `GET`       | :material-check:     Fetch resource  |
-| `PUT`       | :material-check-all: Update resource |
-| `DELETE`    | :material-close:     Delete resource |
+| Zeilpalltform | Vorteile     | Nachteile              |
+| --------------| ------------------------------------ |
+| Mobil         | :material-check:     Fetch resource  |
+|               | :mat erial-check-all: Update resource |
+| Stationär     | :material-close:     Delete resource |
 
 
 
-
+# Programmiersprache - Vor-/Nachteile
 
 # Phyton:
 
