@@ -1,14 +1,13 @@
 # Zielplattformen für die Gundrisserstellung 
 
-
 | Zeilpalltform  | Vorteile                         | Nachteile                      |
 | -------------- | :--------------------------------| -------------------------------|
 | Mobiles Tablet | Jederzeit Zugriff auf alle Daten | Kleines Display                |
 |                | Echtzeitaktualisierung           | Netzwerkverbindung             |
 |                | Vor-Ort Begehung                 | Akkulaufzeit beachten          |
-| Büro           | Besseres Handling beim Erstellen | fehlendes Vorstellungsvermögen |
+| Büro           | besseres Handling beim Erstellen | fehlendes Vorstellungsvermögen |
 |                | Austausch mit Kollegen           |                                |
-|                | Bessere Konzentration            |                                |
+|                | bessere Konzentration            |                                |
 
 # Programmiersprache - Vor-/Nachteile
 
