@@ -1,17 +1,12 @@
 # Zielplattformen für die Gundrisserstellung 
 
 
-| Zeilpalltform | Vorteile | Nachteile |
-| --------------| :--------|---------- |
-| Mobil         | dw       |           |
-|               |dwad      |           |
-| Stationär     |          |           |
-
-| Method      | Description                          |
-| :---------- | :----------------------------------- |
-| `GET`       | :material-check:     Fetch resource  |
-| `PUT`       | :material-check-all: Update resource |
-| `DELETE`    | :material-close:     Delete resource |
+| Zeilpalltform  | Vorteile                         | Nachteile             |
+| -------------- | :--------------------------------| ----------------------|
+| Mobiles Tablet | Jederzeit Zugriff auf alle Daten | Kleines Display       |
+|                |                                  | Netzwerkverbindung    |
+|                |                                  | Akkulaufzeit beachten |
+| Stationär      |                                  |                       |
 
 # Programmiersprache - Vor-/Nachteile
 
