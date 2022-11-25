@@ -3,8 +3,8 @@
 | Zeilpalltform  | Vorteile                         | Nachteile                      |
 | -------------- | :--------------------------------| -------------------------------|
 | Mobiles Tablet | Jederzeit Zugriff auf alle Daten | Kleines Display                |
-|                | Echtzeitaktualisierung           | Netzwerkverbindung             |
-|                | Vor-Ort Begehung                 | Akkulaufzeit beachten          |
+|                | Vor-Ort Begehung                 | Netzwerkverbindung             |
+|                |                                  | Akkulaufzeit beachten          |
 | Büro           | besseres Handling beim Erstellen | fehlendes Vorstellungsvermögen |
 |                | Austausch mit Kollegen           |                                |
 |                | bessere Konzentration            |                                |
