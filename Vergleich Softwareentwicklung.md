@@ -1,5 +1,13 @@
 # Softwareentwicklung - Vor-/Nachteile
 
+
+| 1 | 
+| 1 | 
+
+
+
+
+
 # Phyton:
 
 Verteile:
