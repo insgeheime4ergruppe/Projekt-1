@@ -7,7 +7,7 @@
 |               |
 | Stationär     | 
 
-
+d
 
 # Programmiersprache - Vor-/Nachteile
 
