@@ -1,8 +1,11 @@
 # Softwareentwicklung - Vor-/Nachteile
 
 
-| 1 | 
-| 1 | 
+| Method      | Description                          |
+| ----------- | ------------------------------------ |
+| `GET`       | :material-check:     Fetch resource  |
+| `PUT`       | :material-check-all: Update resource |
+| `DELETE`    | :material-close:     Delete resource |
 
 
 
