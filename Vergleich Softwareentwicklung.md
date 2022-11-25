@@ -1,10 +1,10 @@
 # Zielplattformen für die Gundrisserstellung 
 
 
-| Zeilpalltform | 
-| --------------| 
-| Mobil         | 
-| Stationär     |
+| Zeilpalltform | Vorteile | Nachteile |
+| --------------| :--------|---------- |
+| Mobil         |          |           |
+| Stationär     |          |           |
 
 | Method      | Description                          |
 | :---------- | :----------------------------------- |
