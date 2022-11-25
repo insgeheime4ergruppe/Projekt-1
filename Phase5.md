@@ -1,16 +1,18 @@
 # Untersuchung der Datenformate bzw. Datenquellen  
 
 1. genutzte Daten:
-  - Grundrisse (2D)
+  - Grundriss vom Kunden
   - Kundendaten
 
 Grundriss (vom Kuden):
 - Bereitsteller: Kunde 
 - Datenformat: .jpg, .pdf
-- Metainformation: Längen- und Breitenverhältnisse der Räume, Position von Hindernisse wie Fenstern, Säulen oder Möbel, Steckdosen, Datenkabel
+- Metainformation: Längen- und Breitenverhältnisse der Räume, Position von Hindernisse wie Fenstern, Säulen oder Möbel, Steckdosen, Datenkabel, Abstellräume für Server 
 
 Grundriss (vom Techniker erstellt)
 - Bereitsteller: Techniker
+- Datenformat:  
+- Metainformation: Längen- und Breitenverhältnisse der Räume, Position von Hindernisse wie Fenstern, Säulen oder Möbel, Steckdosen, Datenkabel, Abstellräume für Server 
 
 Kundendaten:
 - Bereitsteller: Kunde
@@ -19,14 +21,8 @@ Kundendaten:
 
 Weiterverarbeitung:
 
+  Kundendaten:
+  - Die Daten werden in einer Datenbank abgespeichert, fallse diese nicht vorhanden sind
+  - IT-Komponeten: Datenbank-Server (Interneerreichbarkeit), Konfiguration eines Intranets, Router
 
-
-2. Darstellung der Daten:
-  - gängige Datenformate: .png, .jpg, .pdf, .ifc, .rvt, .ndw, .mwd, .pln
-
-3. Importierung und sinnvolle Weiterverarbeitung:
-  - Abfrage des Dateityps -> .png, .jpg, .pdf, .ifc, bei Bedarf Wal der Software
-
-5. Datenformate für die Angebotserstellung:
-  - .ifc -> für Weiterverabeitungen
-  - .pdf -> für Endverbraucher bzw. ohne Bearbeitung 
+  Grundriss:
