@@ -3,8 +3,9 @@
 
 | Zeilpalltform | Vorteile | Nachteile |
 | --------------| :--------|---------- |
-| `Mobil`       |          |           |
-| `Stationär`   |          |           |
+| Mobil         | dw       |           |
+|               |dwad      |           |
+| Stationär     |          |           |
 
 | Method      | Description                          |
 | :---------- | :----------------------------------- |
