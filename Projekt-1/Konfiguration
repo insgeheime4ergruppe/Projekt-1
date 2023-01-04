@@ -1,0 +1,4 @@
+Git proxy Konfiguration:
+git config --global http.proxy http://kjs-04.lan.dd-schulen.de:3128
+
+https://github.com/insgeheime4ergruppe/Projekt-1 <- Klonen der GIT

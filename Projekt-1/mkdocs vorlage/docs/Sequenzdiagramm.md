@@ -1,0 +1,1 @@
+![Sequenzdiagramm](images/Sequenzdiagramm.drawio.png)
