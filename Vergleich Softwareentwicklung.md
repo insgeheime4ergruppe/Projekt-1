@@ -15,7 +15,7 @@
 
 Verteile:
 - Open-Source
-* eeeee
+- *eeeee
 - objektorientierte Programmierung  
 - Dynamisches Casting (keine Deklaration von Variablen)
 - Einfach strukturierter Code ohne viele Formatierungen
