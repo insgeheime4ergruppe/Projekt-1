@@ -14,13 +14,9 @@
 | Tom                                    | Datenquellen                                   | 
 | -------------------------------------- | :--------------------------------------------- | 
 | Zugangskontrolle und Zugriffskontrolle | Kundendaten, Netzwerkplandaten, Grundrissdaten | 
-| :------------------------------------- | ---------------------------------------------- |
 | Weitergabekontrolle                    | Kundendaten, Netzwerkplandaten, Grundrissdaten |
-| :------------------------------------- | ---------------------------------------------- |
 | Eingabekontrolle                       | Netzwerkplandaten, Grundrissdaten              |
-| :------------------------------------- | ---------------------------------------------- |
 | Verfügbarkeitskontrolle                | Netzwerkplandaten, Grundrissdaten              |
-| :------------------------------------- | ---------------------------------------------- |
 
 # Programmiersprache - Vor-/Nachteile
 
