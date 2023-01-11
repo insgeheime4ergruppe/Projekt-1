@@ -9,6 +9,19 @@
 |                | Austausch mit Kollegen           |                                |
 |                | bessere Konzentration            |                                |
 
+
+
+| Tomm                                   | Datenquellen                                   | 
+| -------------------------------------- | :--------------------------------------------- | 
+| Zugangskontrolle und Zugriffskontrolle | Kundendaten, Netzwerkplandaten, Grundrissdaten | 
+| -------------------------------------- | ---------------------------------------------- |
+| Weitergabekontrolle                    | Kundendaten, Netzwerkplandaten, Grundrissdaten |
+| -------------------------------------- | ---------------------------------------------- |
+| Eingabekontrolle                       | Netzwerkplandaten, Grundrissdaten              |
+| -------------------------------------- | ---------------------------------------------- |
+| Verfügbarkeitskontrolle                | Netzwerkplandaten, Grundrissdaten              |
+| -------------------------------------- | ---------------------------------------------- |
+
 # Programmiersprache - Vor-/Nachteile
 
 # Phyton:
