@@ -19,10 +19,10 @@ Phase 2:
 - [ ] Alle Gruppenmitglieder führen einen Clone-Vorgang des Remote Repositorys auf ihren eigenen Rechnern aus und erhalten lokale Kopien vom Remote Repository 
 
 Phase 3:
-- [ ] Reihenfolge der Tätigkeiten in einem sequentiellen Ablauf darstellen -> Erstellung eines Sequenzdiagramm
+- [x] Reihenfolge der Tätigkeiten in einem sequentiellen Ablauf darstellen -> Erstellung eines Sequenzdiagramm
 
 Phase 4:
-- [ ] Erstellung eines Projekt-Wiki (Mögliche Nutzung wäre mkdocs)
+- [x] Erstellung eines Projekt-Wiki (Mögliche Nutzung wäre mkdocs)
    - Erstellen Sie ein Wiki, welches alle bisher erstellten Dokumente und Informationen im Projekt beschreibt und als Verweise beinhalten
    - Sichern Sie das Wiki ebenfalls im git-Repository
 
