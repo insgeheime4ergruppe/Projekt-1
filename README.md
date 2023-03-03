@@ -36,4 +36,31 @@ Phase 5:
    - welche Metainformationen sind zur Datenquelle vorhanden
 - [x] Entscheiden Sie, wer die Daten innerhalb der ITSystemHausDD GmbH nutzen und verarbeiten darf
 - [x] Datenformat für das Angebot ausgewählt
+<style type="text/css">
+	table.tableizer-table {
+		font-size: 12px;
+		border: 1px solid #CCC; 
+		font-family: Arial, Helvetica, sans-serif;
+	} 
+	.tableizer-table td {
+		padding: 4px;
+		margin: 3px;
+		border: 1px solid #CCC;
+	}
+	.tableizer-table th {
+		background-color: #104E8B; 
+		color: #FFF;
+		font-weight: bold;
+	}
+</style>
+<table class="tableizer-table">
+<thead><tr class="tableizer-firstrow"><th>TOM</th><th>Datenquellen</th></tr></thead><tbody>
+ <tr><td>Zutrittskontrolle</td><td>Kundendaten, Netzwerkplandaten, Grundrissdaten</td></tr>
+ <tr><td>Zugangskontrolle und Zugriffskontrolle</td><td>Kundendaten, Netzwerkplandaten, Grundrissdaten</td></tr>
+ <tr><td>Weitergabekontrolle</td><td>Kundendaten, Netzwerkplandaten, Grundrissdaten</td></tr>
+ <tr><td>Eingabekontrolle</td><td>Netzwerkplandaten, Grundrissdaten</td></tr>
+ <tr><td>Auftragskontrolle</td><td>Kundendaten, Netzwerkplandaten</td></tr>
+ <tr><td>Verfügbarkeitskontrolle</td><td>Netzwerkplandaten, Grundrissdaten</td></tr>
+ <tr><td>Trennungsgebot</td><td>Kundendaten, Netzwerkplandaten, Grundrissdaten</td></tr>
+</tbody></table>
 
