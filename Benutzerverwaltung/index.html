@@ -354,23 +354,27 @@
   - Vertrieb
   - Kunde
 </code></pre>
-<p>Geschäftsleitung:</p>
-<pre><code>  - Leseberechtigung auf alle Dateien
+<p>Administrator:</p>
+<pre><code>  - Leseberechtigung auf alle Tabellen
+  - Schreibberechtigung auf alle Tabellen
+  - vergibt jedem Nutzer ein Passwort
+  - ordnet jedem Nutzer einer Gruppe zu
+  - stellt bei Verlust des Passwortes ein neues Passwort aus
+  - speichert Passwörter in Datenbank auf welche nur Administrator Zugriff hat
+  - Nur Administrator kann Rollen und Rechte zuweisen
 </code></pre>
 <p>Außentechniker:</p>
-<pre><code>  - Leseberechtigung auf alle Dateien
-  - Schreibberechtigung (bestimmte Dateien, wie Netzwerkplan, Grundriss)
+<pre><code>  - Lese- und Schreibberechtigung (Tabelle: Auftrag)
 </code></pre>
 <p>Innentechniker:</p>
-<pre><code>  - Leseberechtigung auf alle Dateien
-  - Schreibberechtigung (bestimmte Dateien, wie Netzwerkplan, Grundriss)
+<pre><code>  - Lese- und Schreibberechtigung (Tabelle: Auftrag)
 </code></pre>
 <p>Vertrieb:</p>
-<pre><code>  - Leseberechtigung auf alle Dateien
-  - Schreibberechtigung nur auf kundenbezogene Daten
+<pre><code>  - Leseberechtigung auf alle Tabellen
+  - Schreibberechtigung nur auf kundenbezogene Daten (Tabellen: Kunde, Angebot, Komponenten)
 </code></pre>
 <p>Kunde:</p>
-<pre><code>  - Leseberechtigung auf Anfrage
+<pre><code>  - bekommt Auskunft auf Nachfrage
   - z.B.: Fortschritt des Projektes, Vertragskonditionen
 </code></pre>
 <p>MySQL-Datenbank:</p>
@@ -382,11 +386,8 @@
  -&gt; Sicherstellung, dass nur berechtigte Geräte eine WAN-Verbindung zur SQL-Datenbank 
     aufbauen dürfen
 
-  - Tablet:
+  - Tablet/PC:
  -&gt; VPN-Verbindung über eine WAN/WLAN-Verbindung auf die SQL Datenbank
-
-  - PC:
- -&gt; Abfrage der Projektdaten über eine SQL-Datenbank
 </code></pre>
 
 
