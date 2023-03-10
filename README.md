@@ -37,3 +37,24 @@ Phase 5:
 - [x] Entscheiden Sie, wer die Daten innerhalb der ITSystemHausDD GmbH nutzen und verarbeiten darf
 - [x] Datenformat für das Angebot ausgewählt
 
+Phase 6:
+- [] Identifizieren Sie die Nutzer des zukünftigen Software-Systems und dessen Datenbestandes.
+   - Notieren Sie für alle Nutzer die notwendigen Rechte auf die Datenquellen.
+- [] Entscheiden Sie, wie Sie die Nutzerverwaltung praktisch im System umsetzen können. Hinweis: SQL-
+     Server - Kapitel 9
+   - Definieren Sie die Schnittstelle zwischen eigenen Software-Anwendungen und der gewählten 
+Nutzerverwaltung. 
+
+Phase 7:
+- [x] Recherchieren Sie nach technischen und organisatorischen Schutzmaßnahmen (TOM)
+   - Nutzen Sie die folgenden Internetquellen https://sichere-it.org/technische-massnahmen/ und 
+     https://sichere-it.org/organisatorische-massnahmen/
+   - Erstellen Sie ein Konzept in tabellarischer Form, wie Sie die einzelnen gefundenen Datenquellen 
+     konkret mit TOM schützen werden.
+     
+Phase 8:
+- [] Erstellen Sie ein Konzept, mit dem der Zugriff auf die die Datenquellen einheitlich über eine 
+     Benutzerschnittstelle (inkl. Berechtigung) ermöglicht werden kann.
+- [] Entwerfen Sie eine Datenmodell, welches den gesamten Datenbestand Ihres Software-Systems 
+     abbildet. Hinweis: binäre Daten sind als BLOB handhabbar.
+
