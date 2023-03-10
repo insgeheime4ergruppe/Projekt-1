@@ -53,7 +53,7 @@ Phase 7:
      konkret mit TOM schützen werden.
      
 Phase 8:
--  [] Erstellen Sie ein Konzept, mit dem der Zugriff auf die die Datenquellen einheitlich über eine 
+- [ ] Erstellen Sie ein Konzept, mit dem der Zugriff auf die die Datenquellen einheitlich über eine 
      Benutzerschnittstelle (inkl. Berechtigung) ermöglicht werden kann.
 - [ ] Entwerfen Sie eine Datenmodell, welches den gesamten Datenbestand Ihres Software-Systems 
      abbildet. Hinweis: binäre Daten sind als BLOB handhabbar.
