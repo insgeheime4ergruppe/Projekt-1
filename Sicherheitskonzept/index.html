@@ -21,7 +21,7 @@
     
     
       
-        <title>Benutzerverwaltung - Dokumentation Projekt-1</title>
+        <title>Sicherheitskonzept - Dokumentation Projekt-1</title>
       
     
     
@@ -94,7 +94,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Benutzerverwaltung
+              Sicherheitskonzept
             
           </span>
         </div>
@@ -292,7 +292,7 @@
       
       
       <a href="./" class="md-nav__link md-nav__link--active">
-        Benutzerverwaltung
+        Sicherheitskonzept
       </a>
       
     </li>
@@ -345,7 +345,7 @@
                   
 
 
-  <h1>Benutzerverwaltung</h1>
+  <h1>Sicherheitskonzept</h1>
 
 <p>Nutzer:</p>
 <pre><code>  - Administrator
@@ -355,27 +355,30 @@
   - Kunde
 </code></pre>
 <p>Administrator:</p>
-<pre><code>  - Leseberechtigung auf alle Tabellen
-  - Schreibberechtigung auf alle Tabellen
+<pre><code>  - Lese- und Schreribberechtigung auf alle Datenbanken
   - vergibt jedem Nutzer ein Passwort
   - ordnet jedem Nutzer einer Gruppe zu
   - stellt bei Verlust des Passwortes ein neues Passwort aus
-  - speichert Passwörter in Datenbank auf welche nur Administrator Zugriff hat
+  - speichert Passwörter in der Datenbank auf welche nur der Administrator Zugriff hat
   - Nur Administrator kann Rollen und Rechte zuweisen
 </code></pre>
 <p>Außentechniker:</p>
 <pre><code>  - Lese- und Schreibberechtigung (Tabelle: Auftrag)
+  - kann keine Rollen und Rechte zuweisen
 </code></pre>
 <p>Innentechniker:</p>
 <pre><code>  - Lese- und Schreibberechtigung (Tabelle: Auftrag)
+  - kann keine Rollen und Rechte zuweisen
 </code></pre>
 <p>Vertrieb:</p>
 <pre><code>  - Leseberechtigung auf alle Tabellen in der Datenbank Angebot
   - Schreibberechtigung nur auf kundenbezogene Daten (Tabellen: Kunde, Angebot, Komponenten)
+  - kann keine Rollen und Rechte zuweisen
 </code></pre>
 <p>Kunde:</p>
 <pre><code>  - bekommt Auskunft auf Nachfrage
   - z.B.: Fortschritt des Projektes, Vertragskonditionen
+  - kann keine Rollen und Rechte zuweisen
 </code></pre>
 <p>MySQL-Datenbank:</p>
 <pre><code>  - jeder Nutzer erhält individuelle Kennungen 
