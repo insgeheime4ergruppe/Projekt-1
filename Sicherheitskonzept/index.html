@@ -17,7 +17,7 @@
         <link rel="next" href="../Datenbankkonzept/">
       
       <link rel="icon" href="../favicon.png">
-      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.1.2">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.1.8">
     
     
       
@@ -25,10 +25,7 @@
       
     
     
-      <link rel="stylesheet" href="../assets/stylesheets/main.7bf56d0a.min.css">
-      
-        
-        <link rel="stylesheet" href="../assets/stylesheets/palette.a0c5b2b5.min.css">
+      <link rel="stylesheet" href="../assets/stylesheets/main.ded33207.min.css">
       
       
 
@@ -50,14 +47,11 @@
   </head>
   
   
-    
-    
-    
-    
-    
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent="">
+    <body dir="ltr">
   
     
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -374,7 +368,8 @@
   - vergibt jedem Nutzer ein Passwort
   - ordnet jedem Nutzer einer Gruppe zu
   - stellt bei Verlust des Passwortes ein neues Passwort aus
-  - speichert Passwörter in der Datenbank auf welche nur der Administrator Zugriff hat
+  - speichert Passwörter in der Datenbank auf welche nur 
+    der Administrator Zugriff hat
   - Nur Administrator kann Rollen und Rechte zuweisen
 </code></pre>
 <p>Außentechniker:</p>
@@ -387,7 +382,8 @@
 </code></pre>
 <p>Vertrieb:</p>
 <pre><code>  - Leseberechtigung auf alle Tabellen in der Datenbank Angebot
-  - Schreibberechtigung nur auf kundenbezogene Daten (Tabellen: Kunde, Angebot, Komponenten)
+  - Schreibberechtigung nur auf kundenbezogene Daten 
+    (Tabellen: Kunde, Angebot, Komponenten)
   - kann keine Rollen und Rechte zuweisen
 </code></pre>
 <p>Kunde:</p>
@@ -401,14 +397,59 @@
 </code></pre>
 <p>Schnittstelle:</p>
 <pre><code>  - VPN-Kanal:
- -&gt; Sicherstellung, dass nur berechtigte Geräte eine WAN-Verbindung zur SQL-Datenbank 
-    aufbauen dürfen
+ -&gt; Sicherstellung, dass nur berechtigte Geräte eine WAN-Verbindung 
+    zur SQL-Datenbank aufbauen dürfen
 
   - Tablet/PC:
  -&gt; VPN-Verbindung über eine WAN/WLAN-Verbindung auf die SQL Datenbank
 </code></pre>
 <h2>Kontrolle</h2>
-<p><img alt="Kontrolle" src="/images/Kontrolle.png" /></p>
+<table>
+<thead>
+<tr>
+<th>TOM</th>
+<th>Datenquellen</th>
+<th>Gewährleistung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Zutrittskontrolle</td>
+<td>Kundendaten, Netzwerkplandaten, Grundrissdaten</td>
+<td>Zugsngskarte, Passwort</td>
+</tr>
+<tr>
+<td>Zugangskontrolle und Zugriffskontrolle</td>
+<td>Kundendaten, Netzwerkplandaten, Grundrissdaten</td>
+<td>Benutzerrollen</td>
+</tr>
+<tr>
+<td>Weitergabekontrolle</td>
+<td>Kundendaten, Netzwerkplandaten, Grundrissdaten</td>
+<td>Verschlüsselungssystemm für Mailverkehr</td>
+</tr>
+<tr>
+<td>Eingabekontrolle</td>
+<td>Netzwerkplandaten, Grundrissdaten</td>
+<td>Protokollsystem</td>
+</tr>
+<tr>
+<td>Aufrtragkontrolle</td>
+<td>Kundendaten, Netzwerkplandaten</td>
+<td>bei regelmäßiger Kontrolle der Einhaltung der Vertragsdetails</td>
+</tr>
+<tr>
+<td>Verfügbarkeitskontrolle</td>
+<td>Netzwerkplandaten, Grundrissdaten</td>
+<td>RAID-System</td>
+</tr>
+<tr>
+<td>Trennungsgebot</td>
+<td>Kundendaten, Netzwerkplandaten, Grundrissdaten</td>
+<td>Wir dürfen nur die Daten benutzen, die expliziet für diesen Auftrag benötigt werden</td>
+</tr>
+</tbody>
+</table>
 
 
 
@@ -449,7 +490,7 @@
     <script id="__config" type="application/json">{"base": "..", "features": [], "search": "../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "In Zwischenablage kopiert", "clipboard.copy": "In Zwischenablage kopieren", "search.result.more.one": "1 weiteres Suchergebnis auf dieser Seite", "search.result.more.other": "# weitere Suchergebnisse auf dieser Seite", "search.result.none": "Keine Suchergebnisse", "search.result.one": "1 Suchergebnis", "search.result.other": "# Suchergebnisse", "search.result.placeholder": "Suchbegriff eingeben", "search.result.term.missing": "Es fehlt", "select.version": "Version ausw\u00e4hlen"}}</script>
     
     
-      <script src="../assets/javascripts/bundle.fc8c2696.min.js"></script>
+      <script src="../assets/javascripts/bundle.51198bba.min.js"></script>
       
     
   </body>
