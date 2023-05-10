@@ -17,7 +17,7 @@
         <link rel="next" href="../Datenbankkonzept/">
       
       <link rel="icon" href="../favicon.png">
-      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.9">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.11">
     
     
       
@@ -373,15 +373,17 @@
   - Nur Administrator kann Rollen und Rechte zuweisen
 </code></pre>
 <p>Außentechniker:</p>
-<pre><code>  - Lese- und Schreibberechtigung (Tabelle: Auftrag)
+<pre><code>  - Leseberechtigung (Tabelle: Angebot, Kunde)
+  - Schreibberechtigung (Tabelle: Auftrag)
   - kann keine Rollen und Rechte zuweisen
 </code></pre>
 <p>Innentechniker:</p>
-<pre><code>  - Lese- und Schreibberechtigung (Tabelle: Auftrag)
+<pre><code>  - Leseberechtigung (Tabelle: Angebot, Kunde)
+  - Schreibberechtigung (Tabelle: Auftrag)
   - kann keine Rollen und Rechte zuweisen
 </code></pre>
 <p>Vertrieb:</p>
-<pre><code>  - Leseberechtigung auf alle Tabellen in der Datenbank Angebot
+<pre><code>  - Leseberechtigung auf alle Tabellen
   - Schreibberechtigung nur auf kundenbezogene Daten 
     (Tabellen: Kunde, Angebot, Komponenten)
   - kann keine Rollen und Rechte zuweisen
